@@ -7,7 +7,7 @@
 
 2. 
    1. Place all the zip files containing the annotation results in the current directory.
-   2. Put the [credential file](https://drive.google.com/drive/u/3/folders/1SS7jzhF-OzVN1s0cgS7KREADbCzhaKoa) in the current dir. Please directly request for the permission of this link.
+   2. Put the [credential file](https://drive.google.com/drive/u/3/folders/1SS7jzhF-OzVN1s0cgS7KREADbCzhaKoa) in the current dir. Please directly request permission via this link.
 
 3. Run the `unzip.sh` script:
     ```bash
